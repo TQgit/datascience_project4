@@ -28,7 +28,7 @@ The goal of this project is applying **supervised learning algorithms**, or **Ti
 
 ---
 
-### Submission (Due May 5)
+### Submission (Due May 6)
 
 - The link to the repo which includes:
   1. Readme contains a brief about your selected dataset and the defined problem.
